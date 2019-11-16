@@ -1,2 +1,2 @@
 # example-ecat-deployment-policies
-Example compliance policies with must pass before deploying infrastructure using Enterprise Cloud Admin Tool
+Example compliance policies which must pass before deploying infrastructure using Enterprise Cloud Admin Tool
