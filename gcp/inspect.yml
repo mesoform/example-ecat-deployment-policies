@@ -1,0 +1,14 @@
+name: GCP InSpec Sample Profile
+title: GCP InSpec Profile
+summary: GCP InSpec Compliance Profile
+maintainer: The Authors
+copyright: The Authors
+copyright_email: you@example.com
+license: Apache-2.0
+version: 0.20.0
+inspec_version: '>= 4.7.3'
+depends:
+  - name: inspec-aws
+    url: https://github.com/inspec/inspec-gcp/archive/master.tar.gz
+supports:
+  - platform: gcp
